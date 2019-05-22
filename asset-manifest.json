@@ -1,14 +1,14 @@
 {
-  "main.css": "/utsweb3/static/css/main.0f0ad159.chunk.css",
-  "main.js": "/utsweb3/static/js/main.5dd216ff.chunk.js",
-  "main.js.map": "/utsweb3/static/js/main.5dd216ff.chunk.js.map",
+  "main.css": "/utsweb3/static/css/main.a4b90056.chunk.css",
+  "main.js": "/utsweb3/static/js/main.f4331de3.chunk.js",
+  "main.js.map": "/utsweb3/static/js/main.f4331de3.chunk.js.map",
   "runtime~main.js": "/utsweb3/static/js/runtime~main.0bfe0192.js",
   "runtime~main.js.map": "/utsweb3/static/js/runtime~main.0bfe0192.js.map",
   "static/js/2.65aa1cca.chunk.js": "/utsweb3/static/js/2.65aa1cca.chunk.js",
   "static/js/2.65aa1cca.chunk.js.map": "/utsweb3/static/js/2.65aa1cca.chunk.js.map",
   "index.html": "/utsweb3/index.html",
-  "precache-manifest.ed63a93f797d964e9db3f25d9dd87ae2.js": "/utsweb3/precache-manifest.ed63a93f797d964e9db3f25d9dd87ae2.js",
+  "precache-manifest.06fddc75c0b816cdeadd4984d3b9f538.js": "/utsweb3/precache-manifest.06fddc75c0b816cdeadd4984d3b9f538.js",
   "service-worker.js": "/utsweb3/service-worker.js",
-  "static/css/main.0f0ad159.chunk.css.map": "/utsweb3/static/css/main.0f0ad159.chunk.css.map",
-  "static/media/logo.svg": "/utsweb3/static/media/logo.5d5d9eef.svg"
+  "static/css/main.a4b90056.chunk.css.map": "/utsweb3/static/css/main.a4b90056.chunk.css.map",
+  "static/media/logo.svg": "/utsweb3/static/media/logo.ee7cd8ed.svg"
 }
